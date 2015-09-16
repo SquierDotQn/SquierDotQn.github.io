@@ -1,0 +1,12 @@
+PJE : Web of Things
+
+
+Journal de bord de Rémy DEBUE et Théo PLOCKYN
+
+Seance 1 -- 16 Septembre 2015 :
+
+- Découverte des composants
+- Lecture de docs sur Internet
+- Inscritption sur le site developer.mbed.org
+- Test du mbed avec le programme Hello World (allumage de LED en clignotant)
+- Creation d'un mini programme qui allume les lumières à la suite 
