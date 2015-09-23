@@ -16,4 +16,6 @@
 
 		<h3>Seance 2 -- 23 Septembre 2015: </h3>
 		<p>
+			-Installation des GNU Tools pour ARM embedded processors<br/>
+			-Première tentative avec Eclipse <br/>
 		</p>
