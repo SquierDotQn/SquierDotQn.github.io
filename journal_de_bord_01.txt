@@ -13,3 +13,7 @@
 		<br/>- Inscritption sur le site developer.mbed.org
 		<br/>- Test du mbed avec le programme Hello World (allumage de LED en clignotant)
 		<br/>- Creation d'un mini programme qui allume les lumières à la suite</p>
+
+		<h3>Seance 2 -- 23 Septembre 2015: </h3>
+		<p>
+		</p>
