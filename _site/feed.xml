@@ -6,13 +6,16 @@
 </description>
     <link>http://squierdotqn.github.io/</link>
     <atom:link href="http://squierdotqn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2015 15:54:15 +0200</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2015 15:54:15 +0200</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2015 16:23:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2015 16:23:00 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Séance 6 | Ethernet avec Smews</title>
-        <description>&lt;p&gt;*Téléchargement de &lt;a href=&quot;https://github.com/2xs/smews&quot;&gt;Smews&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;Téléchargement de &lt;a href=&quot;https://github.com/2xs/smews&quot;&gt;Smews&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Génération du binaire et tentative d’utilisation (infructueuse pour le moment)&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Wed, 21 Oct 2015 18:00:00 +0200</pubDate>
@@ -28,9 +31,11 @@
     
       <item>
         <title>Séance 5 | Débuts avec Ethernet</title>
-        <description>&lt;p&gt;*Brancher le câble ethernet doit activer la LED
-*La LED mbed s’allume au branchement
-*Detecter sur interruption le branchement RJ45&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;Brancher le câble ethernet doit activer la LED&lt;/li&gt;
+  &lt;li&gt;La LED mbed s’allume au branchement&lt;/li&gt;
+  &lt;li&gt;Detecter sur interruption le branchement RJ45&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 14 Oct 2015 18:00:00 +0200</pubDate>
         <link>http://squierdotqn.github.io/pje/seance/2015/10/14/seance-5.html</link>
@@ -60,9 +65,11 @@
     
       <item>
         <title>Séance 3 | Premier programme</title>
-        <description>&lt;p&gt;*Creation d’un interrupteur simple avec les cables
-*Allumer la LED puis l’éteindre
-*Clignotement d’une LED à une frequence donnée + début d’interruptions&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;Creation d’un interrupteur simple avec les cables&lt;/li&gt;
+  &lt;li&gt;Allumer la LED puis l’éteindre&lt;/li&gt;
+  &lt;li&gt;Clignotement d’une LED à une frequence donnée + début d’interruptions&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 30 Sep 2015 18:00:00 +0200</pubDate>
         <link>http://squierdotqn.github.io/pje/seance/2015/09/30/seance-3.html</link>
@@ -77,9 +84,11 @@
     
       <item>
         <title>Séance 2 | Chaine de compilation</title>
-        <description>&lt;p&gt;*Installation des GNU Tools pour ARM embedded processors
-*Tentative avec Eclipse selon des posts sur internet, mais n’a pas marché.
-*Utilisation des bibliothèques &lt;a href=&quot;https://github.com/hauspie/rflpc&quot;&gt;rfLPC&lt;/a&gt; fournies par Michaël Hauspie (Lille 1)&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;Installation des GNU Tools pour ARM embedded processors&lt;/li&gt;
+  &lt;li&gt;Tentative avec Eclipse selon des posts sur internet, mais n’a pas marché.&lt;/li&gt;
+  &lt;li&gt;Utilisation des bibliothèques &lt;a href=&quot;https://github.com/hauspie/rflpc&quot;&gt;rfLPC&lt;/a&gt; fournies par Michaël Hauspie (Lille 1)&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Wed, 23 Sep 2015 18:00:00 +0200</pubDate>
@@ -95,11 +104,13 @@
     
       <item>
         <title>Séance 1 | Découverte</title>
-        <description>&lt;p&gt;*Découverte des composants
-*Lecture de docs sur Internet
-*Inscription sur le site developer.mbed.org
-*Test du mbed avec le programme Hello World (allumage de LED onboard en clignotant)
-*Creation d’un mini programme qui allume les LEDs via les ports de la carte ( ici les ports PwmOut, p21 p22 et p23 )&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;Découverte des composants&lt;/li&gt;
+  &lt;li&gt;Lecture de docs sur Internet&lt;/li&gt;
+  &lt;li&gt;Inscription sur le site developer.mbed.org&lt;/li&gt;
+  &lt;li&gt;Test du mbed avec le programme Hello World (allumage de LED onboard en clignotant)&lt;/li&gt;
+  &lt;li&gt;Creation d’un mini programme qui allume les LEDs via les ports de la carte ( ici les ports PwmOut, p21 p22 et p23 )&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 16 Sep 2015 18:00:00 +0200</pubDate>
         <link>http://squierdotqn.github.io/pje/seance/2015/09/16/seance-1.html</link>
