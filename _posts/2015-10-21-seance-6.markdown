@@ -4,6 +4,7 @@ title:  "Séance 6 | Ethernet avec Smews"
 date:   2015-10-21 16:00:00
 categories: pje seance
 ---
-*Téléchargement de [Smews][smews-gh]
+* Téléchargement de [Smews][smews-gh]
+* Génération du binaire et tentative d'utilisation (infructueuse pour le moment)
 
 [smews-gh]: 	https://github.com/2xs/smews

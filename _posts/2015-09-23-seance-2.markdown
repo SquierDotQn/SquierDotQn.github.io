@@ -4,9 +4,9 @@ title:  "Séance 2 | Chaine de compilation"
 date:   2015-09-23 16:00:00
 categories: pje seance
 ---
-*Installation des GNU Tools pour ARM embedded processors
-*Tentative avec Eclipse selon des posts sur internet, mais n'a pas marché.
-*Utilisation des bibliothèques [rfLPC][rflpc-gh] fournies par Michaël Hauspie (Lille 1)
+* Installation des GNU Tools pour ARM embedded processors
+* Tentative avec Eclipse selon des posts sur internet, mais n'a pas marché.
+* Utilisation des bibliothèques [rfLPC][rflpc-gh] fournies par Michaël Hauspie (Lille 1)
 
 
 [rflpc-gh]:   	https://github.com/hauspie/rflpc
