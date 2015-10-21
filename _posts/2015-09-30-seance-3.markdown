@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Séance 3 | Premier programme"
+date:   2015-09-30 16:00:00
+categories: pje seance
+---
+*Creation d'un interrupteur simple avec les cables
+*Allumer la LED puis l'éteindre
+*Clignotement d'une LED à une frequence donnée + début d'interruptions

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Séance 4 | Pas de séance"
+date:   2015-10-07 16:00:00
+categories: pje seance
+---
+Pas de séance aujourd'hui !
+===========================

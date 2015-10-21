@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Séance 5 | Débuts avec Ethernet"
+date:   2015-10-14 16:00:00
+categories: pje seance
+---
+*Brancher le câble ethernet doit activer la LED
+*La LED mbed s'allume au branchement
+*Detecter sur interruption le branchement RJ45

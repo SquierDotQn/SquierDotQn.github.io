@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Séance 1 | Découverte"
+date:   2015-09-16 16:00:00
+categories: pje seance
+---
+*Découverte des composants
+*Lecture de docs sur Internet
+*Inscription sur le site developer.mbed.org
+*Test du mbed avec le programme Hello World (allumage de LED onboard en clignotant)
+*Creation d'un mini programme qui allume les LEDs via les ports de la carte ( ici les ports PwmOut, p21 p22 et p23 )

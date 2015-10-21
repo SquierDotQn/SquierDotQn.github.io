@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Liens utiles!"
+date:   2015-09-16 15:00:00
+categories: pje liens
+---
+
+Pour avancer dans ce projet, nous avons eu besoin d'utiliser [le layout des pins][pins] pour le mbed LPC1768, couplé à la [librairie rflpc][rflpc-gh] pour développer en bare-metal.
+Par la suite, nous avons utilisé [smews][smews-gh] pour avoir une interface plus simple pour le web.
+
+
+[pins]:     	https://developer.mbed.org/users/screamer/code/mbed/file/667d61c9177b/PinNames.h
+[rflpc-gh]:   	https://github.com/hauspie/rflpc
+[smews-gh]: 	https://github.com/2xs/smews
