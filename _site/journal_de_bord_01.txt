@@ -1,0 +1,21 @@
+<h1>PJE : Web of Things</h1>
+
+
+		<h2>Journal de bord de 
+			<strong> Rémy DEBUE</strong> et
+			<strong> Théo PLOCKYN</strong>
+		</h2>
+
+		<h3>Seance 1 -- 16 Septembre 2015 :</h3>
+
+		<p>- Découverte des composants
+		<br/>- Lecture de docs sur Internet
+		<br/>- Inscritption sur le site developer.mbed.org
+		<br/>- Test du mbed avec le programme Hello World (allumage de LED en clignotant)
+		<br/>- Creation d'un mini programme qui allume les lumières à la suite</p>
+
+		<h3>Seance 2 -- 23 Septembre 2015: </h3>
+		<p>
+			-Installation des GNU Tools pour ARM embedded processors<br/>
+			-Première tentative avec Eclipse <br/>
+		</p>
