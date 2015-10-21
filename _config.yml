@@ -1,6 +1,6 @@
 # Site settings
 title: Squier.io
-email: theo.plockyn@gmail.com
+email: theo.plockyn@etudiant.univ-lille1.fr
 description: > # this means to ignore newlines until "baseurl:"
   Bienvenue sur le site de Squier.qn ( Ou alors SquierDotQn, c'est selon ! ) avec des contributions de Levrifon !
 baseurl: "" # the subpath of your site, e.g. /blog/
