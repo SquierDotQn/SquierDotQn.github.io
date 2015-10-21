@@ -1,40 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Squier.io</title>
+    <description>Bienvenue sur le site de Squier.qn ( Ou alors SquierDotQn, c&#39;est selon ! ) avec des contributions de Levrifon !
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2015 14:45:13 +0200</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2015 14:45:13 +0200</lastBuildDate>
+    <link>http://squierdotqn.github.io/</link>
+    <atom:link href="http://squierdotqn.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Oct 2015 15:54:15 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2015 15:54:15 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+        <title>Séance 6 | Ethernet avec Smews</title>
+        <description>&lt;p&gt;*Téléchargement de &lt;a href=&quot;https://github.com/2xs/smews&quot;&gt;Smews&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 21 Oct 2015 16:24:03 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/21/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 21 Oct 2015 18:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/seance/2015/10/21/seance-6.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/seance/2015/10/21/seance-6.html</guid>
         
         
-        <category>jekyll</category>
+        <category>pje</category>
         
-        <category>update</category>
+        <category>seance</category>
+        
+      </item>
+    
+      <item>
+        <title>Séance 5 | Débuts avec Ethernet</title>
+        <description>&lt;p&gt;*Brancher le câble ethernet doit activer la LED
+*La LED mbed s’allume au branchement
+*Detecter sur interruption le branchement RJ45&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Oct 2015 18:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/seance/2015/10/14/seance-5.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/seance/2015/10/14/seance-5.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>seance</category>
+        
+      </item>
+    
+      <item>
+        <title>Séance 4 | Pas de séance</title>
+        <description>&lt;h1 id=&quot;pas-de-sance-aujourdhui-&quot;&gt;Pas de séance aujourd’hui !&lt;/h1&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 18:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/seance/2015/10/07/seance-4.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/seance/2015/10/07/seance-4.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>seance</category>
+        
+      </item>
+    
+      <item>
+        <title>Séance 3 | Premier programme</title>
+        <description>&lt;p&gt;*Creation d’un interrupteur simple avec les cables
+*Allumer la LED puis l’éteindre
+*Clignotement d’une LED à une frequence donnée + début d’interruptions&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Sep 2015 18:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/seance/2015/09/30/seance-3.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/seance/2015/09/30/seance-3.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>seance</category>
+        
+      </item>
+    
+      <item>
+        <title>Séance 2 | Chaine de compilation</title>
+        <description>&lt;p&gt;*Installation des GNU Tools pour ARM embedded processors
+*Tentative avec Eclipse selon des posts sur internet, mais n’a pas marché.
+*Utilisation des bibliothèques &lt;a href=&quot;https://github.com/hauspie/rflpc&quot;&gt;rfLPC&lt;/a&gt; fournies par Michaël Hauspie (Lille 1)&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Sep 2015 18:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/seance/2015/09/23/seance-2.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/seance/2015/09/23/seance-2.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>seance</category>
+        
+      </item>
+    
+      <item>
+        <title>Séance 1 | Découverte</title>
+        <description>&lt;p&gt;*Découverte des composants
+*Lecture de docs sur Internet
+*Inscription sur le site developer.mbed.org
+*Test du mbed avec le programme Hello World (allumage de LED onboard en clignotant)
+*Creation d’un mini programme qui allume les LEDs via les ports de la carte ( ici les ports PwmOut, p21 p22 et p23 )&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Sep 2015 18:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/seance/2015/09/16/seance-1.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/seance/2015/09/16/seance-1.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>seance</category>
+        
+      </item>
+    
+      <item>
+        <title>Remarques de Théo et Rémy</title>
+        <description>&lt;h1 id=&quot;remarques-de-tho&quot;&gt;Remarques de Théo&lt;/h1&gt;
+
+&lt;p&gt;Pour avoir déjà pratiqué un peu lors de mes stages de DUT et de L3, ça n’a pas été une découverte totale, par contre j’ai pu apprendre ( ou réapprendre ) le sens des LEDs, les codes couleurs des résistances, et découvrir le C++, ce qui n’a pas trop posé de souci pour le moment. Aussi, je connaissais déjà rFLPC et Smews.&lt;/p&gt;
+
+&lt;h1 id=&quot;remarques-de-rmy&quot;&gt;Remarques de Rémy&lt;/h1&gt;
+
+&lt;p&gt;Je ne connaissais pas vraiment les principes d’éléctricité (à part le classique pile,lampe etc ..) je trouve que la gestion d’un processeur peut être intéressante puisqu’elle offre de nombreuses fonctionalités plus ou moins faciles à aborder.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Sep 2015 17:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/misc/2015/09/16/remarques.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/misc/2015/09/16/remarques.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>misc</category>
+        
+      </item>
+    
+      <item>
+        <title>Liens utiles!</title>
+        <description>&lt;p&gt;Pour avancer dans ce projet, nous avons eu besoin d’utiliser &lt;a href=&quot;https://developer.mbed.org/users/screamer/code/mbed/file/667d61c9177b/PinNames.h&quot;&gt;le layout des pins&lt;/a&gt; pour le mbed LPC1768, couplé à la &lt;a href=&quot;https://github.com/hauspie/rflpc&quot;&gt;librairie rflpc&lt;/a&gt; pour développer en bare-metal.
+Par la suite, nous avons utilisé &lt;a href=&quot;https://github.com/2xs/smews&quot;&gt;smews&lt;/a&gt; pour avoir une interface plus simple pour le web.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 16 Sep 2015 17:00:00 +0200</pubDate>
+        <link>http://squierdotqn.github.io/pje/liens/2015/09/16/liens.html</link>
+        <guid isPermaLink="true">http://squierdotqn.github.io/pje/liens/2015/09/16/liens.html</guid>
+        
+        
+        <category>pje</category>
+        
+        <category>liens</category>
         
       </item>
     
