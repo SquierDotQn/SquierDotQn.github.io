@@ -7,4 +7,6 @@ categories: pje seance
 * Téléchargement de [Smews][smews-gh]
 * Génération du binaire et tentative d'utilisation (infructueuse pour le moment)
 
+La ligne de commande adaptée est : scons target=mbed_slip apps={applications} ipaddr={id} 
+
 [smews-gh]: 	https://github.com/2xs/smews
