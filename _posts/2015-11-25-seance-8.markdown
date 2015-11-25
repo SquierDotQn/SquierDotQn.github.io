@@ -5,7 +5,7 @@ date:   2015-11-25 14:00:00
 categories: pje seance smews 
 ---
 * Pour rappel, le lien de [Smews][smews-gh]
-* Utilisation de la [matrice de leds][led_matrix].
+* Utilisation de la [matrice de leds][led_matrix] avec texte en défilement et choix de couleurs.
 
 * Utils :
 * Pour configurer le git de la fac : 
