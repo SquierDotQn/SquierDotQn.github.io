@@ -8,8 +8,9 @@ categories: pje seance smews
 * Découverte de l'[application board][board].
 * Tentative d'interaction avec l'accelerometre 
 * Pages dynamiques en C, d'abord sans arguments, puis avec : 
+
 ```
-		\nstatic char output_args(struct args_t *args){
+		static char output_args(struct args_t *args){
 			if(args){
 				out_str("first int : ");
 				out_uint(args->i1);
@@ -20,11 +21,15 @@ categories: pje seance smews
 			return 1;
 		}
 ```
+
 * La ligne de commande utilisée ici est : 
-```
+
+```bash
 		scons target=mbed_ethernet apps=:welcome ipaddr=192.168.1.3
 ```
+
 * Pour accéder à la page avec l'interface de la salle réseau, on a besoin d'établir une route :
+
 ```
 		sudo ip link set eth1 up
 		sudo ip addr add 192.168.1.2 dev eth1
