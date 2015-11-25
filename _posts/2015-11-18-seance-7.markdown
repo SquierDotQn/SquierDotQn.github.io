@@ -9,7 +9,7 @@ categories: pje seance smews
 * Tentative d'interaction avec l'accelerometre 
 * Pages dynamiques en C, d'abord sans arguments, puis avec : 
 ```
-		static char output_args(struct args_t *args){
+		\nstatic char output_args(struct args_t *args){
 			if(args){
 				out_str("first int : ");
 				out_uint(args->i1);
