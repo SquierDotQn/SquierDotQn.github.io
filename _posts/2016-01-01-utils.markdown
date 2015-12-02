@@ -23,6 +23,10 @@ categories: pje utils
 		sudo ip addr add 192.168.1.2 dev eth1
 		sudo ip route add 192.168.1.3 via 192.168.1.2 dev eth1
 
+* Pour envoyer un paquet UDP à l'adresse 192.168.1.3:2000 :
+
+		echo -n “foo” | nc -u -w1 192.168.1.3 2000
+
 [pins]:     	https://developer.mbed.org/users/screamer/code/mbed/file/667d61c9177b/PinNames.h
 [rflpc-gh]:   	https://github.com/hauspie/rflpc
 [smews-gh]: 	https://github.com/2xs/smews
