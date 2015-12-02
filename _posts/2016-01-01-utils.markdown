@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Utils"
+date:   2016-01-01 15:00:00
+categories: pje utils
+---
+* Pour rappel, le lien de [Smews][smews-gh]
+* [Le layout des pins][pins] pour le mbed LPC1768
+* La [librairie rflpc][rflpc-gh].
+
+* Utils :
+* Pour configurer le git de la fac : 
+
+		git config --global http.proxy http://cache-etu.univ-lille1.fr:3128
+
+* La ligne de commande utilisée ici est :
+
+		scons target=mbed_ethernet apps=:welcome ipaddr=192.168.1.3
+
+* Pour accéder à la page avec l'interface de la salle réseau, on a besoin d'établir une route :
+
+		sudo ip link set eth1 up
+		sudo ip addr add 192.168.1.2 dev eth1
+		sudo ip route add 192.168.1.3 via 192.168.1.2 dev eth1
+
+[pins]:     	https://developer.mbed.org/users/screamer/code/mbed/file/667d61c9177b/PinNames.h
+[rflpc-gh]:   	https://github.com/hauspie/rflpc
+[smews-gh]: 	https://github.com/2xs/smews

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Séance 9 | Début du projet"
+date:   2015-12-02 14:00:00
+categories: pje seance smews udp
+---
+* Pour rappel, le lien de [Smews][smews-gh]
+* Projet : Lister les mbeds présents sur le réseau ( branchés sur un switch pour le moment, si possible plus tard, pourquoi pas utiliser le module xbee ? ) et les applications disponibles sur ces mbeds, avec un lien vers l'adresse IP directe des mbeds et des applis.
+* Technologies à utiliser : Paquets UDP avec Smews.
+
+
+
+
+[smews-gh]: 	https://github.com/2xs/smews
