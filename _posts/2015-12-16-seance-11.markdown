@@ -5,7 +5,7 @@ date:   2015-12-16 14:00:03
 categories: pje seance smews udp
 ---
 * Pour rappel, le lien de [Smews][smews-gh]
-* Une idée : D'abord envoyer un paquet via javascript côté utilisateur (Du genre, un bouton "Scan" qui envoie le paquet UDP), le mbed renverrait un paquet sur le broadcast avec un message "src:<ip_mbed>", les autres mbed renverraient un paquet vers <ip_mbed> avec en message la liste de leurs applis avec l'url.
+* Une idée : D'abord envoyer un paquet via javascript côté utilisateur (Du genre, un bouton "Scan" qui envoie le paquet UDP), le mbed renverrait un paquet sur le broadcast avec un message "src:ip\_mbed", les autres mbed renverraient un paquet vers ip\_mbed avec en message la liste de leurs applis avec l'url.
 
 
 
