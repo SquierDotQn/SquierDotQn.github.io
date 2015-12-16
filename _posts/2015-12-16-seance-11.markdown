@@ -8,6 +8,7 @@ categories: pje seance smews udp
 * Projet : Lister les mbeds présents sur le réseau ( branchés sur un switch pour le moment, si possible plus tard, pourquoi pas utiliser le module xbee ? ) et les applications disponibles sur ces mbeds, avec un lien vers l'adresse IP directe des mbeds et des applis.
 * Technologies à utiliser : Paquets UDP avec Smews.
 * Interaction avec le binôme d'Axel LHEUREUX et Yao YUAN
+* Quelques soucis pour l'instant à faire fonctionner le réseau
 
 
 
